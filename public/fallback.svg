@@ -1,0 +1,19 @@
+<svg width="300" height="450" viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="300" height="450" fill="#f9f9f9" />
+
+    <!-- TV body -->
+    <rect x="95" y="175" width="110" height="70" rx="8" fill="#e0e0e0" />
+
+    <!-- TV screen inner -->
+    <rect x="105" y="185" width="90" height="50" rx="4" fill="#f9f9f9" />
+
+    <!-- TV stand -->
+    <rect x="140" y="250" width="20" height="10" fill="#d6d6d6" />
+    <rect x="125" y="260" width="50" height="6" rx="3" fill="#d6d6d6" />
+
+    <!-- Antenna -->
+    <line x1="150" y1="175" x2="130" y2="155" stroke="#d0d0d0" stroke-width="3" />
+    <line x1="150" y1="175" x2="170" y2="155" stroke="#d0d0d0" stroke-width="3" />
+</svg>
+  
